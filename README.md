@@ -1,3 +1,3 @@
 # installation-of-grafana
 
-  Installation of Prometheus and Grafana through an EC2 linux machine
+  Installation of Prometheus and Grafana through Command Line Tool
